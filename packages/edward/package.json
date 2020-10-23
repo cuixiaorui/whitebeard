@@ -1,6 +1,6 @@
 {
   "name": "whitebeard-edward",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "components library ",
   "keywords": [
     "vue3",
@@ -18,10 +18,6 @@
   "files": [
     "lib"
   ],
-  "publishConfig": {
-    "access": "whitebeard-edward",
-    "registry": "http://registry.npmjs.org"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/cuixiaorui/whitebeard.git"
