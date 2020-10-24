@@ -1,5 +1,5 @@
 {
-  "name": "@whitebeard/edward",
+  "name": "@blackbeard/edward",
   "version": "0.0.13",
   "description": "components library ",
   "keywords": [
@@ -31,5 +31,5 @@
   "bugs": {
     "url": "https://github.com/cuixiaorui/whitebeard/issues"
   },
-  "gitHead": "c3ac512c4c2481e6ed1491b89a1959f1d8da4246"
+  "gitHead": "f6ca0337f758cd6636a7d7e93c0b0e36f83c1542"
 }
