@@ -1,6 +1,6 @@
 {
-  "name": "@blackbeard/edward",
-  "version": "0.0.13",
+  "name": "whitebeard-edward",
+  "version": "0.0.12",
   "description": "components library ",
   "keywords": [
     "vue3",
@@ -18,9 +18,6 @@
   "files": [
     "lib"
   ],
-  "publishConfig": {
-    "access": "public"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/cuixiaorui/whitebeard.git"
@@ -30,6 +27,5 @@
   },
   "bugs": {
     "url": "https://github.com/cuixiaorui/whitebeard/issues"
-  },
-  "gitHead": "f6ca0337f758cd6636a7d7e93c0b0e36f83c1542"
+  }
 }
